@@ -20,3 +20,19 @@ p {
 }
 
 #message-el {}
+
+button {
+    font-family: "Arbutus", serif;
+    color: black;
+    background-color: white;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 2px;
+    margin: 2px 0px;
+}
+
+button:active {
+    background-color: black;
+    color: white;
+
+}
