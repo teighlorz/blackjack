@@ -28,7 +28,7 @@ button {
     width: 150px;
     border: 2px solid black;
     border-radius: 2px;
-    margin: 2px 0px;
+    margin: 2px .5px;
 }
 
 button:active {
